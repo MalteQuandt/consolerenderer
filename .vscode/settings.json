@@ -1,0 +1,24 @@
+{
+    "C_Cpp.clang_format_style": "Google",
+    "[cpp]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "files.associations": {
+        "algorithms.h": "c",
+        "importantincludes.h": "c",
+        "windows.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "drawingutil.h": "c",
+        "util.h": "c",
+        "ansicol.h": "c",
+        "mathutil.h": "c",
+        "*.tcc": "cpp",
+        "matrix4d.h": "c",
+        "cmath": "c",
+        "matrix.h": "c",
+        "math.h": "c"
+    }
+}
